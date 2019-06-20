@@ -1,2 +1,2 @@
 # project-no-show-appointments
-Nanodegree, data analysis, Python
+This project investigates which factors might contribute to patients missing their medical appointments. Data wrangling, data cleaning, analysis and visualizations using Python.
